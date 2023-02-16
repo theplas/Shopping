@@ -68,5 +68,6 @@ namespace Shopping.Controllers
             _product.DeleteProduct(id);
             return RedirectToAction("Product");
         }
+        //Nguyen
     }
 }
